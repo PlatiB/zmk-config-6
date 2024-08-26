@@ -267,9 +267,9 @@ rect.held, rect.combo.held { fill: #fcc; }
 </a></g>
 <g transform="translate(352, 248)" class="key keypos-31">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">↹</text>
-<a href="#MSE">
-<text x="0" y="24" class="key hold layer-activator">MSE</text>
+<text x="0" y="0" class="key tap">Esc</text>
+<a href="#MID">
+<text x="0" y="24" class="key hold layer-activator">MID</text>
 </a></g>
 <g transform="translate(491, 248)" class="key keypos-32">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
@@ -715,20 +715,26 @@ rect.held, rect.combo.held { fill: #fcc; }
 </g>
 <g transform="translate(611, 49)" class="key keypos-6">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Home</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">Gui+</tspan><tspan x="0" dy="1.2em">V</tspan>
+</text>
 </g>
 <g transform="translate(670, 28)" class="key keypos-7">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">↑</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">Gui+</tspan><tspan x="0" dy="1.2em">C</tspan>
+</text>
 </g>
 <g transform="translate(741, 52) rotate(5.0)" class="key keypos-8">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">End</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">Gui+</tspan><tspan x="0" dy="1.2em">X</tspan>
+</text>
 </g>
 <g transform="translate(814, 119) rotate(15.0)" class="key keypos-9">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Page</tspan><tspan x="0" dy="1.2em">Up</tspan>
+<tspan x="0" dy="-0.6em">Gui+</tspan><tspan x="0" dy="1.2em">Z</tspan>
 </text>
 </g>
 <g transform="translate(44, 173) rotate(-15.0)" class="key keypos-10">
@@ -752,13 +758,11 @@ rect.held, rect.combo.held { fill: #fcc; }
 </g>
 <g transform="translate(552, 114)" class="key keypos-15">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Caps</tspan><tspan x="0" dy="1.2em">Lock</tspan>
-</text>
+<text x="0" y="0" class="key tap">←</text>
 </g>
 <g transform="translate(611, 105)" class="key keypos-16">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">←</text>
+<text x="0" y="0" class="key tap">↑</text>
 </g>
 <g transform="translate(670, 84)" class="key keypos-17">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
@@ -803,33 +807,27 @@ rect.held, rect.combo.held { fill: #fcc; }
 </g>
 <g transform="translate(552, 170)" class="key keypos-25">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">Y</tspan>
-</text>
+<text x="0" y="0" class="key tap">Insert</text>
 </g>
 <g transform="translate(611, 161)" class="key keypos-26">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">V</tspan>
-</text>
+<text x="0" y="0" class="key tap">Home</text>
 </g>
 <g transform="translate(670, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">C</tspan>
+<tspan x="0" dy="-0.6em">Page</tspan><tspan x="0" dy="1.2em">Down</tspan>
 </text>
 </g>
 <g transform="translate(732, 163) rotate(5.0)" class="key keypos-28">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">X</tspan>
+<tspan x="0" dy="-0.6em">Page</tspan><tspan x="0" dy="1.2em">Up</tspan>
 </text>
 </g>
 <g transform="translate(785, 227) rotate(15.0)" class="key keypos-29">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">Z</tspan>
-</text>
+<text x="0" y="0" class="key tap">End</text>
 </g>
 <g transform="translate(288, 255) rotate(-15.0)" class="key held keypos-30">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key held"/>

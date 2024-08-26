@@ -21,7 +21,7 @@ layers:
   - {t: K, h: Ctrl}
   - {t: L, h: Alt}
   - {t: '''', h: Gui}
-  - Esc
+  - Caps Lock
   - {t: Z, h: BTN}
   - X
   - C
@@ -32,10 +32,10 @@ layers:
   - {t: ',', h: Ctrl}
   - {t: ., h: Alt}
   - {t: /, h: BTN}
-  - ⏎
-  - {t: Esc, h: MID}
-  - {t: ␣, h: NAV}
+  - ''''
   - {t: ↹, h: MSE}
+  - {t: ␣, h: NAV}
+  - {t: Esc, h: MID}
   - {t: ⏎, h: SYM}
   - {t: ⌫, h: NUM}
   - {t: ⌦, h: FUN}
@@ -60,7 +60,7 @@ layers:
   - {t: E, h: Ctrl}
   - {t: I, h: Alt}
   - {t: O, h: Gui}
-  - Esc
+  - Caps Lock
   - {t: Z, h: BTN}
   - X
   - C
@@ -71,7 +71,7 @@ layers:
   - {t: ',', h: Ctrl}
   - {t: ., h: Alt}
   - {t: /, h: BTN}
-  - ⏎
+  - ''''
   - {t: Esc, h: MID}
   - {t: ␣, h: NAV}
   - {t: ↹, h: MSE}
@@ -99,7 +99,7 @@ layers:
   - Ctrl
   - Alt
   - Gui
-  - Esc
+  - Caps Lock
   - {t: Ctl+ Z, type: held}
   - Ctl+ X
   - Ctl+ C
@@ -110,7 +110,7 @@ layers:
   - Ctl+ C
   - Ctl+ X
   - Ctl+ Z
-  - ⏎
+  - ''''
   - ''
   - Left Click
   - Right Click
@@ -124,32 +124,32 @@ layers:
   - Tab Left
   - {t: Tab Close, h: Win Close}
   - Insert
-  - Home
-  - ↑
-  - End
-  - Page Up
+  - Gui+ V
+  - Gui+ C
+  - Gui+ X
+  - Gui+ Z
   - Gui
   - Alt
   - Ctrl
   - Shift
   - ''
-  - Caps Lock
   - ←
+  - ↑
   - ↓
   - →
   - Page Down
-  - Esc
+  - Caps Lock
   - {t: EXT, h: toggle}
   - {t: DEF, h: toggle}
   - {t: NAV, h: toggle}
   - {t: NUM, h: toggle}
   - ''
-  - Ctl+ Y
-  - Ctl+ V
-  - Ctl+ C
-  - Ctl+ X
-  - Ctl+ Z
-  - ⏎
+  - Insert
+  - Home
+  - Page Down
+  - Page Up
+  - End
+  - ''''
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
@@ -177,7 +177,7 @@ layers:
   - Vol Down
   - ⏭️
   - ''
-  - Esc
+  - Caps Lock
   - {t: EXT, h: toggle}
   - {t: DEF, h: toggle}
   - {t: MID, h: toggle}
@@ -188,7 +188,7 @@ layers:
   - BT 3
   - BT CLR
   - BT CLR ALL
-  - ⏎
+  - ''''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -216,7 +216,7 @@ layers:
   - Ctrl
   - Alt
   - Gui
-  - Esc
+  - Caps Lock
   - '`'
   - '1'
   - '2'
@@ -227,7 +227,7 @@ layers:
   - {t: NUM, h: toggle}
   - {t: DEF, h: toggle}
   - {t: EXT, h: toggle}
-  - ⏎
+  - ''''
   - .
   - '0'
   - '-'
@@ -255,7 +255,7 @@ layers:
   - Ctrl
   - Alt
   - Gui
-  - Esc
+  - Caps Lock
   - '~'
   - '!'
   - '@'
@@ -266,7 +266,7 @@ layers:
   - {t: SYM, h: toggle}
   - {t: DEF, h: toggle}
   - {t: EXT, h: toggle}
-  - ⏎
+  - ''''
   - (
   - )
   - _
@@ -294,7 +294,7 @@ layers:
   - Ctrl
   - Alt
   - Gui
-  - Esc
+  - Caps Lock
   - F10
   - F1
   - F2
@@ -305,7 +305,7 @@ layers:
   - {t: FUN, h: toggle}
   - {t: DEF, h: toggle}
   - {t: EXT, h: toggle}
-  - ⏎
+  - ''''
   - APP
   - ␣
   - ↹
@@ -333,7 +333,7 @@ layers:
   - Mouse ↓
   - Mouse →
   - Scroll ↓
-  - Esc
+  - Caps Lock
   - {t: EXT, h: toggle}
   - {t: DEF, h: toggle}
   - {t: MSE, h: toggle}
@@ -344,10 +344,10 @@ layers:
   - Ctl+ C
   - Ctl+ X
   - Ctl+ Z
-  - ⏎
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''''
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Right Click
   - Left Click
   - ''
