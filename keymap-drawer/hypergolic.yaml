@@ -20,7 +20,7 @@ layers:
   - {t: J, h: Shift}
   - {t: K, h: Ctrl}
   - {t: L, h: Alt}
-  - {t: '''', h: Gui}
+  - {t: ;, h: Gui}
   - {t: Z, h: BTN}
   - X
   - C
@@ -32,7 +32,7 @@ layers:
   - {t: ., h: Alt}
   - {t: /, h: BTN}
   - {t: ␣, h: NAV}
-  - {t: ↹, h: MSE}
+  - {t: Esc, h: MID}
   - {t: ⏎, h: SYM}
   - {t: ⌫, h: NUM}
   EXT:
@@ -112,17 +112,17 @@ layers:
   - Tab Left
   - {t: Tab Close, h: Win Close}
   - Insert
-  - Home
-  - ↑
-  - End
-  - Page Up
+  - Gui+ V
+  - Gui+ C
+  - Gui+ X
+  - Gui+ Z
   - Gui
   - Alt
   - Ctrl
   - Shift
   - ''
-  - Caps Lock
   - ←
+  - ↑
   - ↓
   - →
   - Page Down
@@ -131,11 +131,11 @@ layers:
   - {t: NAV, h: toggle}
   - {t: NUM, h: toggle}
   - ''
-  - Ctl+ Y
-  - Ctl+ V
-  - Ctl+ C
-  - Ctl+ X
-  - Ctl+ Z
+  - Insert
+  - Home
+  - Page Down
+  - Page Up
+  - End
   - {type: held}
   - {t: ▽, type: trans}
   - ⏎
