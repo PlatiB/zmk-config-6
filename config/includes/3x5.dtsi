@@ -140,7 +140,7 @@
             bindings = <LAYER_FROM38( \
 //           ╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮   ╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮
               &kp Q,         &kp W,         &kp E,         &kp R,         &kp T,             &kp Y,         &kp U,         &kp I,         &kp O,         &kp P, \
-              &aml LGUI A,   &aml LALT S,   &aml LCTRL D,  &asl LSHFT F,  &kp G,             &kp H,         &asr LSHFT J,  &amr LCTRL K,  &amr LALT L,   &aml LGUI SQT, \
+              &aml LGUI A,   &aml LALT S,   &aml LCTRL D,  &asl LSHFT F,  &kp G,             &kp H,         &asr LSHFT J,  &amr LCTRL K,  &amr LALT L,   &aml LGUI SEMI, \
 &kp CAPS,      &lt BTN Z,     &kp X,         &kp C,         &kp V,         &lt MID B,         &lt FUN N,     &kp M,        &amr RCTRL COMMA, &amr RALT DOT, &lt BTN SLASH, &kp SQT, \
                                             MS_ACT(TAB),   &lt NAV SPACE, &lt MID ESC,       &lt SYM RET,   &lt NUM BSPC,  &lt FUN DEL \
 //                                         ╰─────────────┴──────────────┴──────────────╯    ╰──────────────┴──────────────┴──────────────╯
