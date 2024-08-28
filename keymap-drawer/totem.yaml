@@ -20,7 +20,7 @@ layers:
   - {t: J, h: Shift}
   - {t: K, h: Ctrl}
   - {t: L, h: Alt}
-  - {t: '''', h: Gui}
+  - {t: ;, h: Gui}
   - Caps Lock
   - {t: Z, h: BTN}
   - X
@@ -134,8 +134,8 @@ layers:
   - Shift
   - ''
   - ←
-  - ↑
   - ↓
+  - ↑
   - →
   - Page Down
   - Caps Lock

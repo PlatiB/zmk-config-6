@@ -20,7 +20,7 @@ layers:
   - {t: J, h: Shift}
   - {t: K, h: Ctrl}
   - {t: L, h: Alt}
-  - {t: '''', h: Gui}
+  - {t: ;, h: Gui}
   - {t: Z, h: BTN}
   - X
   - C
@@ -122,8 +122,8 @@ layers:
   - Shift
   - ''
   - ←
-  - ↑
   - ↓
+  - ↑
   - →
   - Page Down
   - {t: EXT, h: toggle}
