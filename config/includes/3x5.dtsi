@@ -176,7 +176,7 @@
             bindings = <LAYER_FROM38( \
 //           ╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮   ╭──────────────┬──────────────┬──────────────┬──────────────┬──────────────╮
               &kp LS(TAB),   &swapper,      &kp TAB_RT,    &kp TAB_LT,    &ht LA(F4) LC(F4), &kp INS,       &kp LG(V),      &kp LG(C),        &kp LG(X),       &kp LG(Z), \
-              &kp LGUI,      &kp LALT,      &kp LCTRL,     &kp LSHFT,     &none,             &kp LEFT,      &kp UP,      &kp DOWN,      &kp RIGHT,     &kp PG_DN, \
+              &kp LGUI,      &kp LALT,      &kp LCTRL,     &kp LSHFT,     &none,             &kp LEFT,      &kp DOWN,      &kp UP,      &kp RIGHT,     &kp PG_DN, \
 &kp CAPS,      &to EXT,       &to DEF,       &to  NAV,      &to NUM,       &none,             &kp INS,     &kp HOME,     &kp PG_DN,     &kp PG_UP,     &kp END,     &kp SQT, \
                                             &trans,        &trans,        &trans,            &kp RET,       &kp BSPC,      &kp DEL \
 //                                         ╰──────────────┴──────────────┴──────────────╯   ╰──────────────┴──────────────┴──────────────╯
